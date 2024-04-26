@@ -1,3 +1,5 @@
+package com.senac.pi1.pizza;
+
 import java.util.Scanner;
 
 public class LerDados {
